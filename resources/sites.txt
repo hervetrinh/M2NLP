@@ -1,0 +1,17 @@
+# Word2Vec de Polytechnique
+http://nlp.polytechnique.fr/word2vec
+
+# spaCy
+https://spacy.io/models/fr
+
+# Illustrated transformers
+https://jalammar.github.io/illustrated-transformer/
+
+# Huggingface 
+https://huggingface.co/
+
+# Documentation Huggingface 
+https://huggingface.co/docs
+
+# Exemples notebook Huggingface
+https://huggingface.co/docs/transformers/notebooks
