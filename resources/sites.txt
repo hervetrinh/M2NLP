@@ -15,3 +15,6 @@ https://huggingface.co/docs
 
 # Exemples notebook Huggingface
 https://huggingface.co/docs/transformers/notebooks
+
+# Visualisation d'un LLM
+https://bbycroft.net/llm
