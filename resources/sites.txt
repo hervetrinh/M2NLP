@@ -18,3 +18,12 @@ https://huggingface.co/docs/transformers/notebooks
 
 # Visualisation d'un LLM
 https://bbycroft.net/llm
+
+# TensorboardX
+https://github.com/lanpa/tensorboardX/tree/master
+
+# Label-Studio
+https://labelstud.io
+
+# Prodigy
+https://prodi.gy
