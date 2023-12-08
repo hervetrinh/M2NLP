@@ -36,3 +36,12 @@ https://www.gradio.app
 
 # Streamlit
 https://streamlit.io
+
+# PEFT Huggingface
+https://huggingface.co/docs/peft/conceptual_guides/lora
+
+# PEFT Fine tuning
+https://www.kdnuggets.com/overview-of-peft-stateoftheart-parameterefficient-finetuning
+
+# Prompt Engineering
+https://platform.openai.com/docs/guides/prompt-engineering/strategy-use-external-tools
