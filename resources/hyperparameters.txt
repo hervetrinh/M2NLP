@@ -1,0 +1,7 @@
+# Huggingface :
+https://huggingface.co/docs/transformers/hpo_train (API Trainer)
+
+# ML :
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://optuna.org/
+
